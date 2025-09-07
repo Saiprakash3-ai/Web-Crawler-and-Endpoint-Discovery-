@@ -35,7 +35,7 @@ Results displayed in an organized table
 Install the required libraries with:
 text
 
-pip install requests beautifulsoup4
+    pip install requests beautifulsoup4
 
 # Notes
 
